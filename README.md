@@ -1,29 +1,39 @@
-<h1 align="center">Nourhan Said</h1>
-
-<h3 align="center">AI Engineer · Computer Vision & Generative AI · AI Mentor</h3>
-
+<!-- Banner -->
 <p align="center">
-  Building end-to-end vision and GenAI systems, and helping teams learn to do the same.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Nourhan%20Said&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20GenAI%20%7C%20AI%20Mentor&descSize=18&descAlignY=60" alt="Nourhan Said banner"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Nourhan+%F0%9F%91%8B;I+build+Computer+Vision+%26+GenAI+systems;I+teach+and+mentor+AI+teams;I+care+about+AI+for+disaster+resilience" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <a href="mailto:nourhansaid221@gmail.com"><img src="https://img.shields.io/badge/Email-nourhansaid221%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/nourhan-said-472b4820a/)">
+  <a href="mailto:nourhansaid221@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/nourhan-said-472b4820a/?skipRedirect=true)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## 👩‍💻 About me
+## 👋 About me
 
-- 🎯 AI Engineer focused on **Computer Vision** (detection, segmentation, vision-language models) and **Generative AI** (diffusion models, RAG, LangGraph agents).
-- 🌍 AILA & AI Strategy Intern at the **United Nations Development Programme (UNDP)**, working on AI Landscape Assessments for governments.
-- 🎓 AI trainer and mentor for hackathons with the **African Union (AYAB-DRR)** and **Orange Digital Centre**, teaching responsible AI, RAG, and AI for disaster risk reduction.
-- 🎓 B.Sc. in Computer Science and Information Technology, South Valley University (Erasmus+ mobility, University of Applied Sciences in Nysa, Poland).
-- 📫 Open to junior AI / Computer Vision / GenAI engineering opportunities.
+I'm an **AI Engineer** who loves turning research ideas into things that actually run: from segmentation and diffusion pipelines to RAG assistants and LangGraph agents.
+I also love **teaching AI**, and I've trained and mentored around 150 participants across AI hackathons.
 
-## 🛠️ Tech stack
+- 🌍 **UNDP**: working on AI Landscape Assessments and AI strategy for governments
+- 🎓 **Mentor & trainer**: African Union (AYAB-DRR) and Orange Digital Centre hackathons
+- 🎓 B.Sc. Computer Science & IT, with an Erasmus+ semester in Poland 🇵🇱
+- 📫 Open to junior AI, Computer Vision, and GenAI engineering roles
 
-**Languages & Data**
+## 💬 Ask me about
+
+`Computer Vision` · `SAM2 & YOLO` · `Diffusion models` · `RAG` · `LangGraph agents` · `LoRA fine-tuning` · `Responsible AI` · `AI for disaster risk reduction` · `Mentoring`
+
+## 🧰 Tech stack
+
+<details open>
+<summary><b>Languages & Data</b></summary>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -31,68 +41,75 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+</details>
 
-**Machine Learning & Computer Vision**
+<details open>
+<summary><b>Machine Learning & Computer Vision</b></summary>
+<br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logoColor=black)
-![SAM2](https://img.shields.io/badge/SAM2-0467DF?logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68)
+![SAM2](https://img.shields.io/badge/SAM2-0467DF)
+</details>
 
-**Generative AI & LLMs**
+<details open>
+<summary><b>Generative AI & LLMs</b></summary>
+<br>
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6E44FF)
 ![Diffusion](https://img.shields.io/badge/Diffusion%20Models-8A2BE2)
 ![LoRA](https://img.shields.io/badge/LoRA%20%2F%20PEFT-FF6F61)
+</details>
 
-**Deployment & MLOps**
+<details open>
+<summary><b>Deployment & MLOps</b></summary>
+<br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20(basics)-0078D4?logo=microsoftazure&logoColor=white)
+</details>
 
-## 🚧 Currently building
+## 📌 My latest work
 
-A portfolio of end-to-end AI projects focused on **AI for disaster resilience and public-sector use cases**:
+My most recent projects are **pinned right below** this README. Check them out! 👇
 
-| Project | Focus | Status |
-|---|---|---|
-| Disaster Imagery Detection & Segmentation | YOLO + SAM2, ONNX quantization, FastAPI + Docker | 🚧 In progress |
-| Disaster-Risk & AI-Policy Assistant | Hybrid RAG + LangGraph agent with evaluation | 🚧 In progress |
-| Virtual Try-On Demo | Diffusion-based try-on pipeline | 🚧 In progress |
-| Zero-shot vs LoRA on CLIP | Vision-language benchmark with ablations | 🚧 In progress |
-| AI Readiness & Human Development Analysis | SQL, regression, SHAP, Power BI | 🚧 In progress |
+## 📊 GitHub stats
 
-<!--
-================ FEATURED PROJECTS (uncomment each row when the repo is live) ================
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nour-said&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=nour-said&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
-## ⭐ Featured projects
+## 🐍 Contribution snake
 
-| Project | What it does | Key result | Stack |
-|---|---|---|---|
-| [Disaster Vision](https://github.com/nour-said/REPO-NAME) | Detects and segments flood/damage areas in aerial imagery | mAP@50-95: X · INT8 latency: -Y% | YOLO, SAM2, ONNX, FastAPI, Docker |
-| [Policy Assistant](https://github.com/nour-said/REPO-NAME) | RAG + LangGraph assistant over public UN documents | hit@5: X · faithfulness: Y | LangGraph, Chroma, Ragas |
-| [Try-On Demo](https://github.com/nour-said/REPO-NAME) | End-to-end virtual try-on pipeline | Qualitative grid + LPIPS/SSIM | Diffusers, Gradio |
-| [CLIP vs LoRA](https://github.com/nour-said/REPO-NAME) | Zero-shot vs linear probe vs LoRA benchmark | Accuracy: X → Y (3 seeds) | PEFT, Transformers |
-| [AI Readiness Analysis](https://github.com/nour-said/REPO-NAME) | Links AI readiness to human development indicators | 3 key findings | SQL, statsmodels, SHAP, Power BI |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nour-said/nour-said/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nour-said/nour-said/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nour-said/nour-said/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-=================================================================================================
--->
+## 🌟 Fun facts
 
-## 🤝 What I can help with
-
-- Building and deploying Computer Vision and GenAI prototypes.
-- Training and mentoring teams on AI fundamentals, responsible AI, and RAG.
-- Turning AI research into practical, well-documented tools.
+- 🗣️ I speak Arabic 🇪🇬, English 🇬🇧, and I'm learning Turkish 🇹🇷
+- 🎯 I explain AI best with real-world examples, especially satellite images and early-warning systems
+- 🧪 Give me a new model on Hugging Face and I'll want to fine-tune it
 
 ---
 
 <p align="center">
-  <i>Always learning, always building. Feel free to reach out.</i>
+  <img src="https://komarev.com/ghpvc/?username=nour-said&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=100&section=footer" alt="footer"/>
 </p>
