@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Nourhan%20Said&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20GenAI%20%7C%20AI%20Mentor&descSize=18&descAlignY=60" alt="Nourhan Said banner"/>
+  <img src="https://raw.githubusercontent.com/nour-said/nour-said/main/assets/banner.svg" alt="Nourhan Said - AI Engineer" width="100%"/>
 </p>
 
 <!-- Typing animation -->
@@ -10,7 +10,11 @@
 
 <p align="center">
   <a href="mailto:nourhansaid221@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[[[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/nourhan-said-472b4820a/)](https://www.linkedin.com/in/nourhan-said-472b4820a/)]([https://w](https://www.linkedin.com/in/nourhan-said-472b4820a/))"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nourhan-said-472b4820a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/nourhan-said-472b4820a/">linkedin.com/in/nourhan-said-472b4820a</a>
 </p>
 
 ---
@@ -84,7 +88,6 @@ My most recent projects are **pinned right below** this README. Check them out! 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nour-said&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
   <img height="170" src="https://streak-stats.demolab.com/?user=nour-said&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
@@ -108,8 +111,4 @@ My most recent projects are **pinned right below** this README. Check them out! 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nour-said&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=100&section=footer" alt="footer"/>
 </p>
