@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:nourhansaid221@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/nourhan-said-472b4820a/?skipRedirect=true)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[[[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/nourhan-said-472b4820a/)](https://www.linkedin.com/in/nourhan-said-472b4820a/)]([https://w](https://www.linkedin.com/in/nourhan-said-472b4820a/))"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
